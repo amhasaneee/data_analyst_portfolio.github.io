@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data Analyst Job Market EDA"
+excerpt: "Transformed and filtered survey data by using filtering functions in Excel.
+    Visualized the data by using dplyr, ggplot etc in RStudio to compile a professional report.
+    Conducted statistical hypothesis testing using t-tests to assess relevant hypotheses.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
